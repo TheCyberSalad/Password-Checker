@@ -47,7 +47,7 @@ Password not found in known breaches.
 ## Italiano
 
 ### Descrizione
-Questo script Python valuta la forza di una password in base alla sua lunghezza, varietà di caratteri ed entropia stimata. Controlla anche se la password è stata esposta in violazioni di dati note utilizzando l'API di Have I Been Pwned e stima i tempi di cracking sia per scenari di calcolo classici che quantistici.
+Questo script Python valuta la robustezza di una password in base alla sua lunghezza, varietà di caratteri ed entropia stimata. Controlla anche se la password è stata esposta in violazioni/data breach noti utilizzando l'API di Have I Been Pwned e stima i tempi di cracking sia per scenari di calcolo classici che quantistici.
 
 ### Requisiti
 - Python 3.6+
