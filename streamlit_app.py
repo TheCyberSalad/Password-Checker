@@ -7,11 +7,11 @@ import requests
 # Language dictionary for translations
 LANGUAGES = {
     "it": {
-        "title": "Controllore di Forza della Password",
+        "title": "Verifica Robustezza della Password",
         "password_prompt": "Inserisci la password:",
         "language_prompt": "Scegli la lingua:",
         "submit": "Valuta Password",
-        "strength": "Forza: {}",
+        "strength": "Robustezza: {}",
         "entropy": "Entropia stimata: {:.2f} bit",
         "classical_time": "Tempo cracking classico (stima): {}",
         "quantum_time": "Tempo cracking quantistico (stima con Grover): {}",
